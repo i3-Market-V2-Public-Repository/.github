@@ -1,17 +1,20 @@
+ 
+# 🚨 ATTENTION: 🚨
+
+### Please be informed that the entire i3-Market-V2-Public-Repository organization page is being transferred to a new URL - https://github.com/i3-Market-V3-Public-Repository. 🎉
+
+### Kindly note that all the repositories, issues, and pull requests will be moved to the new location. We kindly request you to update your bookmarks and references accordingly.
+
+### If you have any questions or concerns, please feel free to reach out to our team.
+
+### Thank you for your attention and cooperation. 💻👨‍💻👩‍💻
+ 
+ 
  # Welcome to the i3-MARKET Backplane
  
 ![i3-market-logo](https://github.com/i3-Market-V2-Public-Repository/.github/blob/main/profile/i3-market-logo.png)
 
 
-🚨 ATTENTION: 🚨
-
-Please be informed that the entire i3-Market-V2-Public-Repository organization page is being transferred to a new URL - https://github.com/i3-Market-V3-Public-Repository. 🎉
-
-Kindly note that all the repositories, issues, and pull requests will be moved to the new location. We kindly request you to update your bookmarks and references accordingly.
-
-If you have any questions or concerns, please feel free to reach out to our team.
-
-Thank you for your attention and cooperation. 💻👨‍💻👩‍💻
 
 
 
